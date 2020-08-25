@@ -1,0 +1,19 @@
+{
+  "mount": {
+    "html": "/",
+    "js": "/js",
+    "web_modules": "/web_modules"
+  },
+  "devOptions": {
+    "open": "none"
+  },
+  "// devOptions": [
+    "Switch off automatic opening of browser tabs"
+  ],
+  "install": [
+    "htm",
+    "immer",
+    "react",
+    "react-dom"
+  ]
+}
